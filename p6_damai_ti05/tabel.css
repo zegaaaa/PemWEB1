@@ -1,0 +1,10 @@
+tr:nth-child(even){
+    background-color: lightblue;
+}
+thead{
+    background: rgb(32, 17, 107); color: white;
+}
+table{
+    border-collapse: collapse;
+    border: lightblue;
+}

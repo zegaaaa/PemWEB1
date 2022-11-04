@@ -1,0 +1,40 @@
+body{
+    background: rgb(226, 236, 219);
+    font-family: sans-serif;
+}
+#header{
+    background: rgb(208, 154, 113);
+    text-align: center;
+    padding: 10px;
+}
+h1{
+    color: rgb(31, 31, 148);
+}
+#header blockquote{
+    background: rgb(226, 239, 47);
+    border: 1px black dashed;
+}
+.center{
+    display: flex;
+    justify-content: center;
+}
+#nav li{
+    display: inline;
+    margin: 5px;
+}
+
+.koleksi img{
+    width: 200px; margin: 10px;
+    border-radius: 50% 0 50% 0;
+}
+h3{
+    background-color:  rgb(226, 239, 47);
+}
+.promo{
+    text-align: center; background: rgb(208, 88, 13);
+    color: rgb(226, 239, 47);
+}
+.promo h3{
+    background: rgb(226, 239, 47);
+    color: rgb(208, 88, 13);
+}
